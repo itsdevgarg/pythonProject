@@ -100,7 +100,6 @@ if __name__ == "__main__":
             noOfSongs = len(songs)
             songIndex = 0
 
-            #ADD Automatic finctinaluty here for no of songs
             for i in range(noOfSongs):
                 songList = [0,]
                 # songList.append(i)
